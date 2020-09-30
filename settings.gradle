@@ -1,0 +1,3 @@
+rootProject.name = 'holelink'
+include 'holelink-core'
+include 'holelink-demo'

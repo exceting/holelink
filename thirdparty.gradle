@@ -1,0 +1,11 @@
+ext {
+    versions = [
+            'lombok'       : '1.18.4',
+            'gradle-lombok': '1.14'
+    ]
+
+    third = [
+            'gradle-lombok': "io.franzbecker:gradle-lombok:${versions['gradle-lombok']}"
+    ]
+
+}
